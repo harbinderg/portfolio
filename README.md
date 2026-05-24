@@ -1,2 +1,2 @@
-# potfolio
+# portfolio
 Harbinder Goraya's portfolio
